@@ -15,10 +15,9 @@
 <li>📫 Conecte-se comigo email: madison.ti.suporte@gmail.com</li> <li>💼 LinkedIn : www.linkedin.com/in/madisonsantosoliveira</li>
  </div>
  <br>  </br>
+ 
  <div>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=madisonti&show_icons=true&theme=radical"width="400px"> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=madisonti&show_icons=true&theme=radical"width="400px">  
 
- </div> 
-
-
+   </div> 
 

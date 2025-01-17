@@ -20,11 +20,40 @@
 
  <h2>🥷Tecnologia</h2>
   <div>
+ <a> 
+  <img align="center" src="https://github.com/user-attachments/assets/1587267a-da9f-4fbb-a2fd-daf5b8099114"width="50px"> 
+            </a>
+  <a> 
+  <img align="center" src="https://github.com/user-attachments/assets/9729b044-712e-4f5a-a016-3158673b36ea" width="50px"> 
+               </a>
+   <a> 
+     <img align="center" src="https://github.com/user-attachments/assets/f86002c5-2d82-427e-a330-b16579de8c14"width="50px">
+                      </a>
+   <a> 
+     <img align="center" src="https://github.com/user-attachments/assets/d31ccf4f-9457-4451-bd07-301b9ebcf65e"width="50px"> 
+                        </a>
+   <a> 
+     <img align="center" src="https://github.com/user-attachments/assets/7f380990-0a5e-436d-bf1f-0b9a7a99ad69  "width="50px">
+                                 </a>
+   <a> 
+    <img align="center" src="https://github.com/user-attachments/assets/8193483f-a045-41f4-9403-18205450691c"width="50px"> 
+                                              </a>
+   <a> 
+    <img align="center" src="https://github.com/user-attachments/assets/d5cd87e6-9c4a-4201-b606-39949b24bea7"width="50px">
+                                                              </a>
+   <a> 
+     <img align="center" src="https://github.com/user-attachments/assets/c418642e-8582-4a54-8185-832ceb5bb866"width="50px"> 
+                                                                    </a>
 
-   <a> <img align="center" src="      "width="400px">        </a>
-    <a> <img align="center" src="    "width="400px">       </a>
-    <a> <img align="center" src="  "width="400px">     </a>
+   <a> 
+   <img align="center" src="https://github.com/user-attachments/assets/869f748e-103b-4a6b-a3d3-933fc193b5f4"width="30px">  
+                                                                                       </a>   
+                                                                                       <a> 
+   <img align="center" src="https://github.com/user-attachments/assets/d25ef66a-f5f5-4124-8adf-59ea83503eb6"width="60px">  
+                                                                                       </a>   
+  
   </div>
+  
  <br>  </br>
  
  <div>

@@ -1,7 +1,7 @@
 <div>
 <h1> Olá, sou Madison Santos Oliveira! 👋</h1>
  <p>            
-  sou um desenvolvedor de sistemas com uma paixão profunda por tecnologia e cibersegurança. Desde cedo, percebi que a tecnologia tem o poder de transformar o mundo e melhorar a vida das pessoas em diversos aspectos.
+Um desenvolvedor de sistemas com uma paixão profunda por tecnologia e cibersegurança. Desde cedo, percebi que a tecnologia tem o poder de transformar o mundo e melhorar a vida das pessoas em diversos aspectos.
  </p>
 <h2>💻 Formação</h2>
 <p> - Graduado em Análise e Desenvolvimento de Sistemas; Atualmente cursando Cibersegurança pela UniCesumar ; Estudante de Licenciatura em Computação e Informática pela UNICV.</p>

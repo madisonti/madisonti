@@ -1,5 +1,8 @@
 <div>
 <h1> Olá, sou Madison Santos Oliveira! 👋</h1>
+ <p>            
+  sou um desenvolvedor de sistemas com uma paixão profunda por tecnologia e cibersegurança. Desde cedo, percebi que a tecnologia tem o poder de transformar o mundo e melhorar a vida das pessoas em diversos aspectos.
+ </p>
 <h2>💻 Formação</h2>
 <p> - Graduado em Análise e Desenvolvimento de Sistemas; Atualmente cursando Cibersegurança pela UniCesumar ; Estudante de Licenciatura em Computação e Informática pela UNICV.</p>
 </div>
@@ -14,10 +17,18 @@
 <div >
 <li>📫 Conecte-se comigo email: madison.ti.suporte@gmail.com</li> <li>💼 LinkedIn : www.linkedin.com/in/madisonsantosoliveira</li>
  </div>
+
+ <h2>🥷Tecnologia</h2>
+  <div>
+
+   <a> <img align="center" src="      "width="400px">        </a>
+    <a> <img align="center" src="    "width="400px">       </a>
+    <a> <img align="center" src="  "width="400px">     </a>
+  </div>
  <br>  </br>
  
  <div>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=madisonti&show_icons=true&theme=radical"width="400px">  
    </div> 
 
-<h2>🥷Tecnologia</h2>
+

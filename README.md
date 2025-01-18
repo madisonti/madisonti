@@ -4,7 +4,7 @@
 Um desenvolvedor de sistemas com uma paixão profunda por tecnologia e cibersegurança. Desde cedo, percebi que a tecnologia tem o poder de transformar o mundo e melhorar a vida das pessoas em diversos aspectos.
  </p>
 <h2>💻 Formação</h2>
-<p> - Graduado em Análise e Desenvolvimento de Sistemas; Atualmente cursando Cibersegurança pela UniCesumar ; Estudante de Licenciatura em Computação e Informática pela UNICV.</p>
+<p> - Graduado em Análise e Desenvolvimento de Sistemas, Atualmente cursando Cibersegurança pela UniCesumar,Estudante de Licenciatura em Computação e Informática pela UNICV.</p>
 </div>
 <h2>🔐 Especializações e Atuação Profissional</h2>
 <p> - Sou apaixonado por tecnologia e segurança da informação, com especialização em áreas como: </p>

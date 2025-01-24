@@ -11,7 +11,7 @@ Um desenvolvedor de sistemas com uma paixão profunda por tecnologia e cibersegu
 <p>  Perícia Forense Computacional; Desenvolvimento Web; Administração de Redes de Computadores; Gestão de Riscos em Cibersegurança; Educação Profissional e Docência em Ciência e Tecnologia da Informação.</p>
 
 <h2>🎓 Atividades Atuais</h2>
-<p>     Atualmente, estou realizando residência em software pela CPEDE e trabalho como Supervisor de TICs na Secretaria Municipal de Educação. Oferece suporte educacional especializado para professores e alunos, além de treinar equipes de tecnologia na implementação de segurança cibernética e no uso de novas tecnologias.</p>
+<p>     Atualmente, estou realizando residência em software pela CPEDE e trabalho como Supervisor de TICs na Secretaria Municipal de Educação com suporte educacional especializado para professores e alunos, além de treinar equipes de tecnologia na implementação de segurança cibernética e no uso de novas tecnologias.</p>
 <h2> 🌐 Interesses </h2>
 <p>- Sou entusiasta do aprendizado contínuo e busco contribuir para o desenvolvimento de soluções inovadoras em tecnologia, com um foco especial na proteção de dados e redes.</p> 
 <div >

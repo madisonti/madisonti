@@ -1,11 +1,18 @@
 <div>
 <h1> Olá, sou Madison Santos Oliveira! 👋</h1>
  <p>            
-Um desenvolvedor de sistemas com uma paixão profunda por tecnologia e cibersegurança. Desde cedo, percebi que a tecnologia tem o poder de transformar o mundo e melhorar a vida das pessoas em diversos aspectos.
+Sou desenvolvedor de sistemas com forte atuação em cibersegurança e educação em tecnologia. Desde cedo, percebi como a tecnologia pode transformar a vida das pessoas, e desde então dedico minha carreira a construir soluções seguras e eficientes.
  </p>
-<h2>💻 Formação</h2>
-<p> - Graduado em Análise e Desenvolvimento de Sistemas, Atualmente cursando Cibersegurança pela UniCesumar,Estudante de Licenciatura em Computação e Informática pela UNICV.</p>
+<h2>💻 Formação Acadêmica</h2>
+ 
+<ul> 
+<li> Graduado em Análise e Desenvolvimento de Sistemas </li>  
+<li>  Graduado em Cibersegurança  pela UniCesumar  </li>  
+<li> Estudante de Licenciatura em Computação e Informática pela UNICV <li>
+<li>  Estudante de Licenciatura em Computação e Informática pela UNIFATCIE </li>
+</ul>
 </div>
+
 <h2>🔐 Especializações e Atuação Profissional</h2>
 <p>  Sou apaixonado por tecnologia e segurança da informação, com especialização em áreas como: </p>
 <p>  Perícia Forense Computacional; Desenvolvimento Web; Administração de Redes de Computadores; Gestão de Riscos em Cibersegurança; Educação Profissional e Docência em Ciência e Tecnologia da Informação.</p>

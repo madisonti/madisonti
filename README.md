@@ -8,7 +8,7 @@ Sou desenvolvedor de sistemas com forte atuação em cibersegurança e educaçã
 <ul> 
 <li> Graduado em Análise e Desenvolvimento de Sistemas </li>  
 <li>  Graduado em Cibersegurança  pela UniCesumar  </li>  
-<li> Estudante de Licenciatura em Computação e Informática pela UNICV <li>
+<li> Estudante de Licenciatura em Computação e Informática pela UNICV </li>
 <li>  Estudante de Licenciatura em Computação e Informática pela UNIFATCIE </li>
 </ul>
 </div>

@@ -23,6 +23,7 @@ Sou desenvolvedor de sistemas com forte atuação em cibersegurança e educaçã
 <p>- Sou entusiasta do aprendizado contínuo e busco contribuir para o desenvolvimento de soluções inovadoras em tecnologia, com um foco especial na proteção de dados e redes.</p> 
 <div >
 <li>📫 Conecte-se comigo email: madison.ti.suporte@gmail.com</li> <li>💼 LinkedIn : www.linkedin.com/in/madisonsantosoliveira</li>
+ <li>  Endereço para acessar este CV Curriculo Lattes: https://lattes.cnpq.br/6952677118231235  <li>          
  </div>
 
  <h2>🥷Tecnologia</h2>

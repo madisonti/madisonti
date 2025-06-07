@@ -1,8 +1,6 @@
 <div>
   <h1>👋 Olá, sou Madison Santos Oliveira!</h1> 
-   <div>
-     <img srv=" https://github.com/user-attachments/assets/8f6f5ae5-d731-4284-8ca6-8526d43e1b9b" />
-       </div>
+
   <p>
     Desenvolvedor de sistemas com forte atuação em cibersegurança e educação em tecnologia. Acredito no poder transformador da tecnologia e dedico minha carreira à criação de soluções seguras, eficientes e voltadas para o impacto social.
   </p>

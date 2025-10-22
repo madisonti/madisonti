@@ -3,7 +3,7 @@
 
   <p>
     Desenvolvedor de sistemas com forte atuação em cibersegurança e educação em tecnologia.
-    Acredito no poder transformador da tecnologia e dedico minha carreira à criação de soluções seguras, eficientes e voltadas para o impacto social.
+    Acredito no poder da tecnologia e dedico minha carreira à criação de soluções seguras, eficientes e voltadas para o impacto social.
   </p>
 
   <h2>🎓 Formação Acadêmica</h2>

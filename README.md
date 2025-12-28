@@ -63,10 +63,7 @@
   <br />
 
   <h2>📊 Estatísticas GitHub</h2>
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=madisonti&show_icons=true&theme=radical" width="400px" />
-  </div>
-</div>
+  
 
 
  

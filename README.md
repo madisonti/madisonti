@@ -31,7 +31,7 @@
 
   <h2>💼 Atividades Atuais</h2>
   <p>
-Residente em Software pela CPEDE (6 meses).
+Residente em Software pela CPEDE (6 meses).<br>
 Supervisor de TICs na Secretaria Municipal de Educação e Mediador do Programa Escola Conectada, com atuação no suporte tecnológico e educacional a professores e alunos, além da coordenação de treinamentos para equipes de tecnologia no ambiente educacional.
   </p>
 

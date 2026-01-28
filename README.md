@@ -1,5 +1,6 @@
   <div>
   <h1>👋 Olá, sou Madison Santos Oliveira!</h1> 
+    <img>
   </div>
   <p>
     Desenvolvedor de sistemas com forte atuação em cibersegurança e educação em tecnologia.
@@ -8,7 +9,7 @@
 
   <h2>🎓 Formação Acadêmica</h2>
   <ul>
-    <li>Graduado em Análise e Desenvolvimento de Sistemas</li>
+    <li>Graduado em Análise e Desenvolvimento de Sistemas -2021 </li>
     <li>Graduado em Cibersegurança pela UniCesumar</li>
     <li>Licenciando em Computação e Informática pela UNICV</li>
     <li>Graduando em Engenharia de Software pela UNIFACITE</li>

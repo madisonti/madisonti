@@ -1,6 +1,6 @@
-  <img width="100" height="100" alt="Image" src="https://github.com/user-attachments/assets/0a37f1b1-e877-4020-9804-101596d09eed" />
+
   <div>
-  <h1>👋 Olá, sou Madison Santos Oliveira!</h1> 
+  <h1>  <img width="100" height="100" alt="Image" src="https://github.com/user-attachments/assets/0a37f1b1-e877-4020-9804-101596d09eed" /> Olá, sou Madison Santos Oliveira!</h1> 
   </div>
   <p>
     Desenvolvedor de sistemas com forte atuação em cibersegurança e educação em tecnologia.

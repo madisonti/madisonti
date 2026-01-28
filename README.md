@@ -19,7 +19,7 @@
 
   <h2>🔐 Especializações e Atuação Profissional</h2>
   <p>
-    Atuo com paixão nas áreas de segurança da informação e educação tecnológica, com especializações em:
+    Atuo nas áreas de segurança da informação e educação tecnológica, com especializações em:
   </p>
   <ul>
     <li>Perícia Forense Computacional</li>

@@ -31,7 +31,8 @@
 
   <h2>💼 Atividades Atuais</h2>
   <p>
-    Atualmente, sou residente em software pela CPEDE e atuo como Supervisor de TICs na Secretaria Municipal de Educação, oferecendo suporte educacional especializado para professores e alunos. Também coordeno o treinamento de equipes de tecnologia em segurança cibernética e adoção de novas tecnologias.
+Residente em Software pela CPEDE (6 meses).
+Supervisor de TICs na Secretaria Municipal de Educação e Mediador do Programa Escola Conectada, com atuação no suporte tecnológico e educacional a professores e alunos, além da coordenação de treinamentos para equipes de tecnologia no ambiente educacional.
   </p>
 
   <h2>🌐 Interesses</h2>

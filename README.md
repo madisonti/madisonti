@@ -11,8 +11,8 @@
 
   <h2>🎓 Formação Acadêmica</h2>
   <ul>
-    <li>Graduado em Análise e Desenvolvimento de Sistemas - 2021 </li>
-    <li>Graduado em Cibersegurança pela UniCesumar - 2025 </li>
+    <li>Graduado em Análise e Desenvolvimento de Sistemas - (2021) </li>
+    <li>Graduado em Cibersegurança pela UniCesumar - (2025) </li>
     <li>Licenciando em Computação e Informática pela UNICV Curcando </li>
     <li>Graduando em Engenharia de Software pela UNIFACITE curcando </li>
   </ul>

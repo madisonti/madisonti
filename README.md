@@ -63,7 +63,8 @@ Supervisor de TICs na Secretaria Municipal de Educação e Mediador do Programa 
     <img src="https://github.com/user-attachments/assets/d25ef66a-f5f5-4124-8adf-59ea83503eb6" width="60px" />
   </div>
    <br/>
-     <h2>⚙️ Estatística</h2>
+  <h2>⚙️ Estatística</h2>
+ 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=madisonti&show_icons=true&theme=transparent)
 
 

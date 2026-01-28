@@ -49,7 +49,6 @@ Supervisor de TICs na Secretaria Municipal de Educação e Mediador do Programa 
     <li>LinkedIn: <a href="https://www.linkedin.com/in/madisonsantosoliveira" target="_blank">madisonsantosoliveira</a></li>
     <li>Lattes: <a href="https://lattes.cnpq.br/6952677118231235" target="_blank">Currículo Lattes</a></li>
   </ul>
-
   <h2>⚙️ Tecnologias</h2>
   <div style="display: flex; gap: 10px; flex-wrap: wrap;">
     <img src="https://github.com/user-attachments/assets/1587267a-da9f-4fbb-a2fd-daf5b8099114" width="50px" />

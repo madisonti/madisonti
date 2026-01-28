@@ -5,7 +5,7 @@
       Olá, sou Madison Santos Oliveira!</h1> 
       </div>
   <p>
-    Desenvolvedor de sistemas com forte atuação em cibersegurança e educação em tecnologia.
+    Desenvolvedor de sistemas com forte atuação em cibersegurança e educação em tecnologia.<br>
     Acredito no poder da tecnologia e dedico minha carreira à criação de soluções seguras, eficientes e voltadas para o impacto social.
   </p>
 

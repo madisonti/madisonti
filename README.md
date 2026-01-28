@@ -67,7 +67,8 @@ Supervisor de TICs na Secretaria Municipal de Educação e Mediador do Programa 
 
   <h2>📊 Estatísticas GitHub</h2>
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&commits_year=2020)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=madisonsantosoliveira&show_icons=true&theme=default)
+
 
  
 

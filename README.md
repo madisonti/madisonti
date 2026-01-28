@@ -67,7 +67,7 @@ Supervisor de TICs na Secretaria Municipal de Educação e Mediador do Programa 
 
   <h2>📊 Estatísticas GitHub</h2>
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=madisonsantosoliveira&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=madisonti/madisonti&show_icons=true&theme=default)
 
 
  

@@ -1,6 +1,11 @@
   <div>
   <h1>👋 Olá, sou Madison Santos Oliveira!</h1> 
-    <img>
+ <img 
+    src="URL_DA_SUA_IMAGEM_AQUI" 
+    alt="Madison Santos Oliveira" 
+    width="300"
+  />
+    <img width="100" height="100" alt="Image" src="https://github.com/user-attachments/assets/0a37f1b1-e877-4020-9804-101596d09eed" />
   </div>
   <p>
     Desenvolvedor de sistemas com forte atuação em cibersegurança e educação em tecnologia.
@@ -9,10 +14,10 @@
 
   <h2>🎓 Formação Acadêmica</h2>
   <ul>
-    <li>Graduado em Análise e Desenvolvimento de Sistemas -2021 </li>
-    <li>Graduado em Cibersegurança pela UniCesumar</li>
-    <li>Licenciando em Computação e Informática pela UNICV</li>
-    <li>Graduando em Engenharia de Software pela UNIFACITE</li>
+    <li>Graduado em Análise e Desenvolvimento de Sistemas - 2021 </li>
+    <li>Graduado em Cibersegurança pela UniCesumar - 2025 </li>
+    <li>Licenciando em Computação e Informática pela UNICV Curcando </li>
+    <li>Graduando em Engenharia de Software pela UNIFACITE curcando </li>
   </ul>
 
   <h2>🔐 Especializações e Atuação Profissional</h2>

@@ -8,6 +8,7 @@
 
 ---
 
+
 ## 🚀 Sobre mim
 Profissional de Tecnologia da Informação com atuação em **desenvolvimento de sistemas, segurança da informação e educação tecnológica**.  
 Dedico minha carreira à criação de soluções **seguras, eficientes e com impacto social**, especialmente no setor educacional público.
@@ -21,7 +22,9 @@ Dedico minha carreira à criação de soluções **seguras, eficientes e com imp
 - Engenharia de Software – em andamento  
 
 ---
-
+div align="center">
+<img src="https://media.giphy.com/media/l1J9EdzfOSgfyueLm/giphy.gif" width="250" alt="Mario correndo"/>
+</div>
 ## 🔐 Especializações
 - Perícia Forense Computacional  
 - Desenvolvimento Web  

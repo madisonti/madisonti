@@ -65,14 +65,15 @@ Dedico minha carreira à criação de soluções **seguras, eficientes e com imp
 - Cibersegurança aplicada  
 - Desenvolvimento de soluções educacionais  
 - Proteção de dados e redes  
-- Pesquisa e inovação em tecnologia  
+- Pesquisa e inovação em tecnologia
+- Voluntariado em educação tecnológica, inclusão digital e capacitação de estudantes
 
 ---
 
 ## 📫 Contato
 - Email: madison.ti.suporte@gmail.com  
 - LinkedIn: [linkedin.com/in/madisonsantosoliveira/](https://www.linkedin.com/in/madisonsantosoliveira/)
-- Lattes: lattes.cnpq.br/6952677118231235   
+- Lattes:   [Currículo Lattes](lattes.cnpq.br/6952677118231235)   
 
 
 <h2>⚙️ Tecnologias</h2>

@@ -22,9 +22,7 @@ Dedico minha carreira à criação de soluções **seguras, eficientes e com imp
 - Engenharia de Software – em andamento  
 
 ---
-div align="center">
-<img src="https://media.giphy.com/media/l1J9EdzfOSgfyueLm/giphy.gif" width="250" alt="Mario correndo"/>
-</div>
+
 ## 🔐 Especializações
 - Perícia Forense Computacional  
 - Desenvolvimento Web  
@@ -72,6 +70,7 @@ div align="center">
 - Email: madison.ti.suporte@gmail.com  
 - LinkedIn: [linkedin.com/in/madisonsantosoliveira/](https://www.linkedin.com/in/madisonsantosoliveira/)
 - Lattes: lattes.cnpq.br/6952677118231235   
+
 
 <h2>⚙️ Tecnologias</h2>
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">

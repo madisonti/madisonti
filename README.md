@@ -50,7 +50,7 @@ Dedico minha carreira à criação de soluções **seguras, eficientes e com imp
 ## 📂 Projetos em Destaque
 
 - Sistema de controle de entrada de alunos por QR Code  
-- Árvore de Natal em C++ – Exercício Prático [Árvore de Natal em C++ – Exercício Prático](https://github.com/madisonti/ArvoreNatal)
+- [Árvore de Natal em C++ – Exercício Prático](https://github.com/madisonti/ArvoreNatal)
 - [Laboratório de Segurança: Teste de Senhas e Vulnerabilidades](https://github.com/madisonti/Ataque-de-For-a-Bruta)
 - [Projeto de Redes de Computadores](https://github.com/madisonti/planoDeRedes)
 - [Conversões numéricas e fundamentos de circuitos digitais/](https://github.com/madisonti/FundamentosArquiteturaComputadores?tab=readme-ov-file)

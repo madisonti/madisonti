@@ -73,7 +73,7 @@ Dedico minha carreira à criação de soluções **seguras, eficientes e com imp
 ## 📫 Contato
 - Email: madison.ti.suporte@gmail.com  
 - LinkedIn: [linkedin.com/in/madisonsantosoliveira/](https://www.linkedin.com/in/madisonsantosoliveira/)
-- Lattes:   [Currículo Lattes](lattes.cnpq.br/6952677118231235)   
+- Lattes:   [Currículo Lattes](https://lattes.cnpq.br/6952677118231235)   
 
 
 <h2>⚙️ Tecnologias</h2>

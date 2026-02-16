@@ -48,7 +48,7 @@ Dedico minha carreira à criação de soluções **seguras, eficientes e com imp
 ---
 
 ## 📂 Projetos em Destaque
-
+- [Data Corte Escolar](https://madisonti.github.io/Site-Seduc-TI-2025/)
 - [Semáforo Educacional](https://github.com/madisonti/Semaforo-Educacional)
 - [Árvore de Natal em C++ – Exercício Prático](https://github.com/madisonti/ArvoreNatal)
 - [Conversões numéricas e fundamentos de circuitos digitais/](https://github.com/madisonti/FundamentosArquiteturaComputadores?tab=readme-ov-file)

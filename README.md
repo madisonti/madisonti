@@ -15,7 +15,7 @@ Dedico minha carreira à criação de soluções **seguras, eficientes e com imp
 ---
 
 ## 🎓 Formação Acadêmica
-- Análise e Desenvolvimento de Sistemas – concluído (2021)  
+- Análise e Desenvolvimento de Sistemas – concluído (2022)  
 - Cibersegurança – UniCesumar (2025)  
 - Licenciatura em Computação e Informática – em andamento  
 - Engenharia de Software – em andamento  

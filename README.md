@@ -1,57 +1,72 @@
-<div>
-  <h1>
-    <img width="100" height="100" alt="Foto de Madison Santos Oliveira" src="https://github.com/user-attachments/assets/0a37f1b1-e877-4020-9804-101596d09eed"/> 
-    Olá, sou Madison Santos Oliveira!
-  </h1>
+<div align="center">
+  <img width="120" height="120" alt="Foto de Madison Santos Oliveira" src="https://github.com/user-attachments/assets/0a37f1b1-e877-4020-9804-101596d09eed"/> 
+  <h1>Olá, sou Madison Santos Oliveira 👋</h1>
+  <p>
+    Desenvolvedor de Sistemas | Cibersegurança | Educação Tecnológica
+  </p>
 </div>
 
-<p>
-  Desenvolvedor de sistemas com forte atuação em cibersegurança e educação em tecnologia.<br>
-  Acredito no poder da tecnologia e dedico minha carreira à criação de soluções seguras, eficientes e voltadas para o impacto social.
-</p>
+---
 
-<h2>🎓 Formação Acadêmica</h2>
-<ul>
-  <li>Graduado em Análise e Desenvolvimento de Sistemas (2021)</li>
-  <li>Graduado em Cibersegurança pela UniCesumar (2025)</li>
-  <li>Licenciando em Computação e Informática pela UNICV – em andamento</li>
-  <li>Graduando em Engenharia de Software pela UNIFACITE – em andamento</li>
-</ul>
+## 🚀 Sobre mim
+Profissional de Tecnologia da Informação com atuação em **desenvolvimento de sistemas, segurança da informação e educação tecnológica**.  
+Dedico minha carreira à criação de soluções **seguras, eficientes e com impacto social**, especialmente no setor educacional público.
 
-<h2>🔐 Especializações e Atuação Profissional</h2>
-<p>
-  Atuo nas áreas de segurança da informação e educação tecnológica, com especializações em:
-</p>
-<ul>
-  <li>Perícia Forense Computacional</li>
-  <li>Desenvolvimento Web</li>
-  <li>Administração de Redes de Computadores</li>
-  <li>Gestão de Riscos em Cibersegurança</li>
-  <li>Educação Profissional e Docência em Ciência e Tecnologia da Informação</li>
-</ul>
+---
 
-<h2>💼 Atividades Atuais</h2>
-<ul>
-  <li>Residente em Software pela CPEDE (6 meses)</li>
-  <li>Supervisor de TICs na Secretaria Municipal de Educação</li>
-  <li>Mediador do Programa Escola Conectada, oferecendo suporte tecnológico e educacional a professores e alunos</li>
-  <li>Coordenação de treinamentos para equipes de tecnologia no ambiente educacional</li>
-</ul>
+## 🎓 Formação Acadêmica
+- Análise e Desenvolvimento de Sistemas – concluído (2021)  
+- Cibersegurança – UniCesumar (2025)  
+- Licenciatura em Computação e Informática – em andamento  
+- Engenharia de Software – em andamento  
 
-<h2>🌐 Interesses</h2>
-<ul>
-  <li>Aprendizado contínuo</li>
-  <li>Soluções inovadoras em tecnologia</li>
-  <li>Proteção e análise de dados e redes</li>
-  <li>Educação tecnológica</li>
-</ul>
+---
 
-<h2>📫 Conecte-se Comigo</h2>
-<ul>
-  <li>Email: <a href="mailto:madison.ti.suporte@gmail.com">madison.ti.suporte@gmail.com</a></li>
-  <li>LinkedIn: <a href="https://www.linkedin.com/in/madisonsantosoliveira" target="_blank">madisonsantosoliveira</a></li>
-  <li>Lattes: <a href="https://lattes.cnpq.br/6952677118231235" target="_blank">Currículo Lattes</a></li>
-</ul>
+## 🔐 Especializações
+- Perícia Forense Computacional  
+- Desenvolvimento Web  
+- Administração de Redes  
+- Gestão de Riscos em Cibersegurança  
+- Docência em Tecnologia da Informação  
+
+---
+
+## 💼 Experiência Atual
+- Residente em Software  
+- Supervisor de TICs na Secretaria Municipal de Educação  
+- Mediador de Tecnologia Educacional  
+- Instrutor de treinamentos para equipes de TI  
+
+---
+
+## 🧠 Tecnologias e Ferramentas
+**Linguagens:** HTML, CSS, JavaScript, Java, TypeScript, C++  
+**Segurança:** Análise de vulnerabilidades, redes, perícia digital  
+**Ferramentas:** Git, GitHub, bancos de dados, ambientes web  
+
+---
+
+## 📂 Projetos em Destaque
+- Sistema de controle de entrada de alunos por QR Code  
+- Aplicação web integrada ao Google Sheets  
+- Estudos práticos em segurança ofensiva e defensiva  
+
+*(Em breve novos repositórios documentados.)*
+
+---
+
+## 🌐 Interesses
+- Cibersegurança aplicada  
+- Desenvolvimento de soluções educacionais  
+- Proteção de dados e redes  
+- Pesquisa e inovação em tecnologia  
+
+---
+
+## 📫 Contato
+- Email: madison.ti.suporte@gmail.com  
+- LinkedIn: linkedin.com/in/madisonsantosoliveira  
+- Lattes: lattes.cnpq.br/6952677118231235  
 
 <h2>⚙️ Tecnologias</h2>
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">

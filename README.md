@@ -51,7 +51,8 @@ Dedico minha carreira à criação de soluções **seguras, eficientes e com imp
 
 - Sistema de controle de entrada de alunos por QR Code  
 - Aplicação web integrada ao Google Sheets  
-- Estudos práticos em segurança ofensiva e defensiva  
+- Estudos práticos em segurança ofensiva e defensiva
+- [Conversões numéricas e fundamentos de circuitos digitais/](https://github.com/madisonti/FundamentosArquiteturaComputadores?tab=readme-ov-file)
 
 *(Em breve novos repositórios documentados.)*
 

@@ -32,21 +32,22 @@ Dedico minha carreira à criação de soluções **seguras, eficientes e com imp
 ---
 
 ## 💼 Experiência Atual
-- Residente em Software  
-- Supervisor de TICs na Secretaria Municipal de Educação  
+- Residente em Software Cepte 
+- Supervisor de TICs  Secretaria Municipal de Educação  
 - Mediador de Tecnologia Educacional  
 - Instrutor de treinamentos para equipes de TI  
 
 ---
 
 ## 🧠 Tecnologias e Ferramentas
-**Linguagens:** HTML, CSS, JavaScript, Java, TypeScript, C++  
+**Linguagens:** HTML, CSS, Java, TypeScript, C++  
 **Segurança:** Análise de vulnerabilidades, redes, perícia digital  
 **Ferramentas:** Git, GitHub, bancos de dados, ambientes web  
 
 ---
 
 ## 📂 Projetos em Destaque
+
 - Sistema de controle de entrada de alunos por QR Code  
 - Aplicação web integrada ao Google Sheets  
 - Estudos práticos em segurança ofensiva e defensiva  
@@ -54,6 +55,7 @@ Dedico minha carreira à criação de soluções **seguras, eficientes e com imp
 *(Em breve novos repositórios documentados.)*
 
 ---
+
 
 ## 🌐 Interesses
 - Cibersegurança aplicada  
@@ -65,8 +67,8 @@ Dedico minha carreira à criação de soluções **seguras, eficientes e com imp
 
 ## 📫 Contato
 - Email: madison.ti.suporte@gmail.com  
-- LinkedIn: linkedin.com/in/madisonsantosoliveira  
-- Lattes: lattes.cnpq.br/6952677118231235  
+- LinkedIn: [linkedin.com/in/madisonsantosoliveira/](https://www.linkedin.com/in/madisonsantosoliveira/)
+- Lattes: lattes.cnpq.br/6952677118231235   
 
 <h2>⚙️ Tecnologias</h2>
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">

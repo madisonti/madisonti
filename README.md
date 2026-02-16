@@ -49,7 +49,7 @@ Dedico minha carreira à criação de soluções **seguras, eficientes e com imp
 
 ## 📂 Projetos em Destaque
 
-- Sistema de controle de entrada de alunos por QR Code  
+- [Semáforo Educacional](https://github.com/madisonti/Semaforo-Educacional)
 - [Árvore de Natal em C++ – Exercício Prático](https://github.com/madisonti/ArvoreNatal)
 - [Laboratório de Segurança: Teste de Senhas e Vulnerabilidades](https://github.com/madisonti/Ataque-de-For-a-Bruta)
 - [Projeto de Redes de Computadores](https://github.com/madisonti/planoDeRedes)

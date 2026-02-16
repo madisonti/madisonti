@@ -51,10 +51,11 @@ Dedico minha carreira à criação de soluções **seguras, eficientes e com imp
 
 - [Semáforo Educacional](https://github.com/madisonti/Semaforo-Educacional)
 - [Árvore de Natal em C++ – Exercício Prático](https://github.com/madisonti/ArvoreNatal)
-- [Laboratório de Segurança: Teste de Senhas e Vulnerabilidades](https://github.com/madisonti/Ataque-de-For-a-Bruta)
-- [Projeto de Redes de Computadores](https://github.com/madisonti/planoDeRedes)
 - [Conversões numéricas e fundamentos de circuitos digitais/](https://github.com/madisonti/FundamentosArquiteturaComputadores?tab=readme-ov-file)
-
+- [Projeto de Redes de Computadores](https://github.com/madisonti/planoDeRedes)
+- [Laboratório de Segurança: Teste de Senhas e Vulnerabilidades](https://github.com/madisonti/Ataque-de-For-a-Bruta)
+- [Prática de Data Carving em Perícia Forense Digital](https://github.com/madisonti/Data-Carving)
+  
 *(Em breve novos repositórios documentados.)*
 
 ---

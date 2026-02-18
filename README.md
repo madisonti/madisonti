@@ -51,6 +51,7 @@ Dedico minha carreira à criação de soluções **seguras, eficientes e com imp
 - [Data Corte Escolar](https://madisonti.github.io/Site-Seduc-TI-2025/)
 - [Semáforo Educacional](https://github.com/madisonti/Semaforo-Educacional)
 - [Árvore de Natal em C++ – Exercício Prático](https://github.com/madisonti/ArvoreNatal)
+- [Agenda lotada!](https://github.com/madisonti/Agenda-lotada-/tree/main)
 - [Conversões numéricas e fundamentos de circuitos digitais/](https://github.com/madisonti/FundamentosArquiteturaComputadores?tab=readme-ov-file)
 - [Projeto de Redes de Computadores](https://github.com/madisonti/planoDeRedes)
 - [Laboratório de Segurança: Teste de Senhas e Vulnerabilidades](https://github.com/madisonti/Ataque-de-For-a-Bruta)
